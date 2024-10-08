@@ -1,1 +1,1 @@
-# OptikOkumaUygulamasi
+# optik-okuma
